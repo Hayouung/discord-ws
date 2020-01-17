@@ -1,4 +1,4 @@
 export default {
   sessionId: "",
-  sequenceNum: 3
+  sequenceNum: 0
 };
